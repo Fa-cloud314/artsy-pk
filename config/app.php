@@ -62,10 +62,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
-        /*
-         * Aimeos Service Provider (IMPORTANT)
-         */
-        Aimeos\Shop\ShopServiceProvider::class,
+    
     ],
 
     /*
